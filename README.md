@@ -1,4 +1,4 @@
-# Sign In with Worldcoin using NextAuth.js
+39ecdb3b5580aa3e442ba088d4987bdd578e2957# Sign In with Worldcoin using NextAuth.js
 
 ## Overview
 
